@@ -7,7 +7,7 @@
 ---
 
 Get the .iso-image at:
-https://sourceforge.net/projects/alien-os-nano/files/
+[https://sourceforge.net/projects/alien-os-nano/files/](https://sourceforge.net/projects/alien-os-nano/files/Alien-OS%20DebianCraft/)
 
 Alien-OS DebianCraft
 
